@@ -1,49 +1,54 @@
-# Tweeter Data Scrapper automation using python
- Python automation
-# Project Name
+# Tweeter Data Scraper Automation using Python
 
- Python automation (Tweeter data scrapping)
+Python automation for scraping Twitter data.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Demo Video](#demo-video)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 
 ## Introduction
-In this project , we are getting tweeter data by the help of All resources saver and that are being automated using python.
+
+In this project, we automate the process of scraping Twitter data using Python. We utilize various resources and implement automation techniques to retrieve and analyze Twitter data efficiently.
 
 ## Demo Video
 
 [![Demo Video](https://img.youtube.com/vi/N3phZWipU5A/0.jpg)](https://youtu.be/N3phZWipU5A)
 
-
+Click the image above to watch the demo video.
 
 ## Features
 
-- get any website data by automation or automate any thing you want 
-- save json data to mongodb database
+- Automated data retrieval from any website or automate any desired task.
+- Save JSON data to MongoDB database.
+
 ## Installation
 
-- Install all these python packages bellow 
- 1:- pip3 install shutil
- 2:- pip3 install zipfile
- 3:- pip3 install pymongo 
- 4:- pip3 install selenium
- 5:- pip3 install pyautogui
- 6:- pip3 install webbrowser
+To use this project, perform the following steps:
 
-- setup webdriver and file location as per the code requirement.
-- make sure your inspect should open at downside in the browser if not make it.
+1. Install the required Python packages:
+
+    ```
+    pip3 install shutil
+    pip3 install zipfile
+    pip3 install pymongo
+    pip3 install selenium
+    pip3 install pyautogui
+    pip3 install webbrowser
+    ```
+
+2. Setup the appropriate webdriver and file location as per the code requirements.
+
+3. Ensure that the browser's inspector is open at the bottom. If not, adjust the inspector position accordingly.
 
 ## Usage
 
-This code specially for tweeter data scrapping.
-
+This code is specifically designed for scraping Twitter data.
 
 ## License
 
-Specify the license under which the project is released. For example, you can use the [MIT License](https://opensource.org/licenses/MIT).
-
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
